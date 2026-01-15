@@ -1,0 +1,5 @@
+{
+  "name": "Emlo User Management",
+  "description": "A comprehensive organization registration and user management system featuring secure authentication, email verification, and role-based access control.",
+  "requestFramePermissions": []
+}
